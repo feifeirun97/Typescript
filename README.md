@@ -1,2 +1,0 @@
-# Typescript
-Typescript for Beginners
